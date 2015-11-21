@@ -1,0 +1,16 @@
+{
+  "quantum-db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/quantum-db",
+    "database": "quantum-db",
+    "password": "singularity",
+    "name": "quantum-db",
+    "user": "quantum",
+    "connector": "mongodb"
+  },
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  }
+}

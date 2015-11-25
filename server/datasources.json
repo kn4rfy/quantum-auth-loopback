@@ -7,7 +7,7 @@
     "password": "singularity",
     "name": "quantum-db",
     "user": "quantum",
-    "connector": "mongodb"
+    "connector": "memory"
   },
   "db": {
     "name": "db",
